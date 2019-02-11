@@ -1,2 +1,2 @@
-# Machine-Learning
-Notes, assignments and resources
+# Machine-Learning  
+# Homework 1 Links:
