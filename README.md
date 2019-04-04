@@ -1,3 +1,6 @@
+# Homework 2 Links:
+[Architecures](https://github.com/EnterTheBeginning/Machine-Learning/blob/master/HW2.ipynb)
+
 # Homework 1 Links:
 [Problem 1](https://github.com/EnterTheBeginning/Machine-Learning/blob/master/HW1_Problem1.ipynb) . 
 [Problem 2](https://github.com/EnterTheBeginning/Machine-Learning/blob/master/HW1_Problem2.ipynb) .  
